@@ -1,6 +1,8 @@
 # Portfolio 
 
-Gives a general idea and representation of my work and personality , as well as my skills and experiences.
+Portfolio website built in React
+
+This was a website built to showcase my technical skills, web design skills.
 ## Installation
 
 Install my-project with npm
