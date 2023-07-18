@@ -41,4 +41,7 @@ bash
 
 ## Screenshots
 
-![Screenshot (853)](https://github.com/adityaRajGit/personal-portfolio/assets/72968234/b24d03fa-bbe6-492b-b1e8-86b0073f535b)
+
+![Screenshot (394)](https://github.com/demondragon07/Personal-Portfolio/assets/127862678/e19229b3-a30c-46a2-b9fc-a2069daba3a1)
+![Screenshot (395)](https://github.com/demondragon07/Personal-Portfolio/assets/127862678/63490618-ca29-48bb-ab21-27b499f0d3bc)
+
